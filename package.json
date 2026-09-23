@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "cors": "^2.8.6",
+    "docker": "^1.0.0",
+    "fetch": "^1.1.0",
+    "mongoose": "^9.10.1",
+    "scripts": "^0.1.0"
+  }
+}
